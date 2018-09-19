@@ -1,0 +1,10 @@
+.vs/
+Debug/
+Release/
+x64/
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+/GleeDbg/imgui.ini
